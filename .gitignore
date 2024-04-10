@@ -1,0 +1,11 @@
+# Project exclude paths
+/spring_09_datasource/target/
+/spring_10_container/target/
+/spring_11_annotation_bean/target/
+/spring_12_annotation_bean_manager/target/
+/spring_13_annotation_di/target/
+/spring_14_annotation_third_bean_manager/target/
+/spring_15_spring_mybatis/target/
+/spring_16_spring_junit/target/
+/spring_17_aop_demo/target/
+/spring_18_aop_quickstart/target/

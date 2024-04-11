@@ -20,6 +20,7 @@
         <module name="spring_07_di_autowire" />
         <module name="spring_12_annotation_bean_manager" />
         <module name="spring_15_spring_mybatis" />
+        <module name="spring_20_aop_advice_type" />
         <module name="spring_18_aop_quickstart" />
         <module name="spring_06_di_constructor" />
         <module name="spring_02_base_config" />

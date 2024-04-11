@@ -9,6 +9,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="spring_22_aop_advice_data" />
         <module name="spring_11_annotation_bean" />
         <module name="spring_13_annotation_di" />
         <module name="spring_01_quickstart" />
@@ -25,6 +26,7 @@
         <module name="spring_06_di_constructor" />
         <module name="spring_02_base_config" />
         <module name="spring_19_aop_pointcut" />
+        <module name="spring_21_case_interface_run_speed" />
         <module name="spring_17_aop_demo" />
         <module name="spring_03_bean_instance" />
         <module name="spring_09_datasource" />

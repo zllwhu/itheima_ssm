@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/spring_19_aop_pointcut/src/main/resources/archetype-resources" includeSubdirectories="true" />
+    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
@@ -20,6 +23,7 @@
         <module name="spring_18_aop_quickstart" />
         <module name="spring_06_di_constructor" />
         <module name="spring_02_base_config" />
+        <module name="spring_19_aop_pointcut" />
         <module name="spring_17_aop_demo" />
         <module name="spring_03_bean_instance" />
         <module name="spring_09_datasource" />

@@ -7,6 +7,7 @@ import org.springframework.stereotype.Repository;
 public class ResourcesDaoImpl implements ResourcesDao {
     @Override
     public boolean readResources(String url, String password) {
+        System.out.println(password.length());
         return password.equals("root");
     }
 }
